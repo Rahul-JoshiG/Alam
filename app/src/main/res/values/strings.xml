@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="add_new_alarm">Add new alarm</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="previousscreen">previousScreen</string>
+    <string name="save_the_alarm">Save the alarm</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="remaining_time">remaining time</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="arg_alarm_obj">AlarmObject</string>
+    <string name="bundle_alarm_obj">BundleAlarmObject</string>
+    <string name="alarm_title">My Alarm</string>
+    <string name="dayNightTheme">DayNightTheme</string>
+    <string name="delete_alarm">Delete Alarm</string>
+    <string name="alarm_repeat">Alarm Repeat</string>
+    <string name="_00_00">00:00</string>
+    <string name="snooze">Snooze</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="ring_ring">Ring Ring</string>
+    <string name="theme">Theme</string>
+    <string name="set_alarm_time">Set Alarm Time</string>
+    <string name="recurring_alarm">Recurring Alarm</string>
+    <string name="mon">Mon</string>
+    <string name="_mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+    <string name="alarm_ringtone">Alarm Ringtone</string>
+    <string name="ringtone">Ringtone</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="schedule_alarm">Schedule Alarm</string>
+    <string name="toast_alarm_reboot">Alarm Reboot</string>
+    <string name="toast_alarm_received">Alarm Received</string>
+</resources>
